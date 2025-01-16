@@ -68,7 +68,9 @@ The `images.json` file should look like this:
   "4.3.1": ["base64encoded image data"]
   // more images
 }
-```2. Run the script to post the propositions to Bluesky:
+```
+
+2. Run the script to post the propositions to Bluesky:
 
    ```bash
    python post.py
