@@ -99,10 +99,10 @@ The `images.json` file should look like this:
 
 ## Acknowledgments
 
-- The *Tractatus Logico-Philosophicus* by Ludwig Wittgenstein serves as the core text for this project. It in the public domain. The English translation used is the Pears/McGuinness.
+- The *Tractatus Logico-Philosophicus* by Ludwig Wittgenstein serves as the core text for this project. It's in the public domain. The English translation used is the Pears/McGuinness.
 - The raw JSON-encoded version is based on Kevin Klement's [Tractatus project](https://bitbucket.org/frabjous/tractatus/src/master/) and Nico Chilla's [Tractatus Tree](https://github.com/nchilla/tractatus-tree) project
 
 --
-[rabern 2025](brianrabern.net)
+[rabern 2025](https://brianrabern.net/)
 
 "Wovon man nicht sprechen kann, darüber muss man schweigen"
